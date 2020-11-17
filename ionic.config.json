@@ -1,0 +1,7 @@
+{
+  "name": "CloneNubak",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
